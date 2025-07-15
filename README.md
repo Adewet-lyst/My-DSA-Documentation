@@ -30,3 +30,6 @@ This involved exploring the data to answer some questions such as:
 - What is the distribution of product rating?
 - What is the total potential revenue?
 - Top 5 product in terms of rating and number of reviews.
+
+### Data Analysis
+
