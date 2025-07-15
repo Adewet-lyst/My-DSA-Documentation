@@ -13,4 +13,20 @@ This data analysis project aims to analyse products and customers review to gene
  1. For data cleaning.
  2. For data manipulation.
  3. For Creating Pivot table
- 4. For Creating Dashboard
+ 4. For Creating Dashboard.
+
+### Data Cleaning and Preparation
+In the initial phase of the data cleaning and preparation, i performed the following functions:
+ 1. Data loading and Inspection.
+ 2. Handling errors and addressing specific cleaning task.
+ 3. Removing duplicates, splitting columns and formatting.
+
+### Exploratory Data Analysis
+This involved exploring the data to answer some questions such as:
+- What is the average discount percentage by product category?
+- How many product are listed under each category?
+- What is the total number of review per category?
+- What is the Average actual price versus the discounted price by category?
+- What is the distribution of product rating?
+- What is the total potential revenue?
+- Top 5 product in terms of rating and number of reviews.
