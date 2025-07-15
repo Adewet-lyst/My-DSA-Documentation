@@ -9,7 +9,7 @@ I have learnt quite a number of things, ranging from Microsoft Excel, SQL and Po
 This data analysis project aims to analyse products and customers review to generate insights that can guide product improvement, marketing strategies and customers engagement. So, nalysing these parameters in the data will help gather adequate information to make appropriate decisions.
 
 ### Tools Used
-_ Microsoft Excel
+- Microsoft Excel
  1. For data cleaning.
  2. For data manipulation.
  3. For Creating Pivot table
