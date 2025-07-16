@@ -33,3 +33,7 @@ This involved exploring the data to answer some questions such as:
 
 ### Data Analysis
 
+### Findings
+ 1. The company sales have been progressing from the sales of electronics.
+ 2. The company generates more revenue from electronics.
+ 3. Invest in marketing and business strategies that promote a product that is bringing good sales.
