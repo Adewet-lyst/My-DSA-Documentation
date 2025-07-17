@@ -32,6 +32,8 @@ This involved exploring the data to answer some questions such as:
 - Top 5 product in terms of rating and number of reviews.
 
 ### Data Analysis
+<img width="415" height="232" alt="image" src="https://github.com/user-attachments/assets/d1dca135-bd0b-4473-b03c-2434743df6dd" />
+
 
 ### Findings
  1. The company sales have been progressing from the sales of electronics.
