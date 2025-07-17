@@ -12,14 +12,17 @@ This data analysis project aims to analyse products and customers review to gene
 - Microsoft Excel
  1. For data cleaning.
  2. For data manipulation.
- 3. For Creating Pivot table
- 4. For Creating Dashboard.
+- Excel Pivot table: For quick summarization of customer ratings, product category count.
+- Excel Pivot Chart: For column chart, pie chart, Line chart to summarize and visualize key metrics to support quick insight for exploratory data analysis.
+- Excel Dashboard: Designed to present clear view of product performance and sentiment.
 
 ### Data Cleaning and Preparation
 In the initial phase of the data cleaning and preparation, i performed the following functions:
- 1. Data loading and Inspection.
- 2. Handling errors and addressing specific cleaning task.
- 3. Removing duplicates, splitting columns and formatting.
+ - Data loading and Inspection.
+ - Filtering irrelevant entries and duplicates in the product and category column to reduce the number of character and to make them unique.
+ - Removing irrelevant columns that do not support the analysis.
+ - Text cleaning: I remove special character and use functions like TRIM, PROPER, to remove excess space and to convert text to proper case.
+ - i created new columns to support and give bases to the analysis.
 
 ### Exploratory Data Analysis
 This involved exploring the data to answer some questions such as:
@@ -34,9 +37,15 @@ This involved exploring the data to answer some questions such as:
 ### Data Analysis
 <img width="415" height="232" alt="image" src="https://github.com/user-attachments/assets/d1dca135-bd0b-4473-b03c-2434743df6dd" />
 
+<img width="1361" height="821" alt="image" src="https://github.com/user-attachments/assets/18e0dcd7-22e3-401f-88bd-a22ccd3982bd" />
 
 ### Findings
  1. The company sales have been progressing from the sales of electronics.
  2. The company generates more revenue from electronics.
- 3. Invest in marketing and business strategies that promote a product that is bringing good sales.
- 4. Strategies on activities to engage customers for product 
+ 3. Low rated products can perform well if volume is high.
+ 4. There is evidence that customers respond well to product offering both high discount and good rating.
+ 5. High discount drives sales volume.
+
+### Conclusion/Recommendation
+-  Invest in marketing and business strategies that promote a product that is bringing good sales.
+-  Strategies on activities to engage customers for sals improvement.
